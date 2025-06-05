@@ -6,17 +6,17 @@ I am currently compiling a comprehensive historical list of **S&P 500** componen
 
 Notably, the section titled "_Selected changes to the list of S&P 500 components_" on Wikipedia contains inaccuracies, and its historical versions under "View history" are similarly unreliable.
 
-[!NOTE]
-Sources: Only entries announced by either _PRNewswire_ or _S&P Global_ are recorded in this Excel file.
+> [!NOTE]
+> Sources: Only entries announced by either _PRNewswire_ or _S&P Global_ are recorded in this Excel file.
 
-[!IMPORTANT]
-Contributions Welcome: If you discover any missing entries announced by _PRNewswire_ or _S&P Global_, please feel free to inform me. 😊
+> [!IMPORTANT]
+> Contributions Welcome: If you discover any missing entries announced by _PRNewswire_ or _S&P Global_, please feel free to inform me. 😊
 
-[!WARNING] 
-Incomplete Data: Some S&P 500 constituents may be missing if their announcements aren't found online.
+> [!WARNING] 
+> Incomplete Data: Some S&P 500 constituents may be missing if their announcements aren't found online.
 
-[!CAUTION]
-Usage Caution: Please use this Excel file with extreme care. It will be updated irregularly.
+> [!CAUTION]
+> Usage Caution: Please use this Excel file with extreme care. It will be updated irregularly.
 
 # Excel File Structure
 
@@ -30,21 +30,11 @@ The Excel file comprises three worksheets:
 
 # Entry Details
 
-1. **Company Name**
+1. **Action**: Addition or Deletion
 
-2. **Ticker**
+2. **Date**: The effective date of the action.
 
-3. **Action**: Addition or Deletion
-
-4. **GICS Economic Sector**
-
-5. **GICS Sub-Industry**
-
-6. **GICS Sector**
-
-7. **Date**: The effective date of the action.
-
-8. **Type**:
+3. **Type**:
 
    - **Close**: Action performed **after** the market close on the recorded date.
 
@@ -52,7 +42,7 @@ The Excel file comprises three worksheets:
 
    - **TBA**: Date of action is To Be Announced; the recorded date is the announcement date.
 
-9. **Link**: Direct link to the official announcement.
+4. **Link**: Direct link to the official announcement.
 
 # Special Cases
 
