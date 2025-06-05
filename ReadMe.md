@@ -12,7 +12,7 @@ Other sources for a comprehensive historical list:
 
 2. **The Price Response to S&P 500 Index Additions and Deletions: Evidence of Asymmetry and a New Explanation** provided by [Honghui Chen, Gregory Noronha, and Vijay Singal](https://afajof.org/supplements/)
 
-3. **S&P Releases List of 86 Companies in the S&P 500 Since 1957** provided by [PaperMoney]((https://www.globalpapermoney.com/s-p-releases-list-of-86-companies-in-the-s-p-500-since-1957-cms-1023))
+3. **S&P Releases List of 86 Companies in the S&P 500 Since 1957** provided by [PaperMoney](https://www.globalpapermoney.com/s-p-releases-list-of-86-companies-in-the-s-p-500-since-1957-cms-1023)
 
 > [!NOTE]
 > Sources: Only entries announced by either _PRNewswire_ or _S&P Global_ are recorded in this Excel file.
