@@ -8,11 +8,11 @@ Notably, the section titled "_Selected changes to the list of S&P 500 components
 
 Other sources for a comprehensive historical list:
 
-1. **S&P 500 Historical Components & Changes.csv** provided by [fja05680](https://github.com/fja05680/sp500)
+1. "_S&P 500 Historical Components & Changes.csv_" provided by [fja05680](https://github.com/fja05680/sp500)
 
-2. **The Price Response to S&P 500 Index Additions and Deletions: Evidence of Asymmetry and a New Explanation** provided by [Honghui Chen, Gregory Noronha, and Vijay Singal](https://afajof.org/supplements/)
+2. "_The Price Response to S&P 500 Index Additions and Deletions: Evidence of Asymmetry and a New Explanation_" provided by [Honghui Chen, Gregory Noronha, and Vijay Singal](https://afajof.org/supplements/)
 
-3. **S&P Releases List of 86 Companies in the S&P 500 Since 1957** provided by [PaperMoney](https://www.globalpapermoney.com/s-p-releases-list-of-86-companies-in-the-s-p-500-since-1957-cms-1023)
+3. "_S&P Releases List of 86 Companies in the S&P 500 Since 1957_" provided by [PaperMoney](https://www.globalpapermoney.com/s-p-releases-list-of-86-companies-in-the-s-p-500-since-1957-cms-1023)
 
 > [!NOTE]
 > Sources: Only entries announced by either _PRNewswire_ or _S&P Global_ are recorded in this Excel file.
