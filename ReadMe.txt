@@ -1,0 +1,59 @@
+This repository meticulously records the **additions** and **deletions** of stocks listed in the Standard & Poor's 500 (S&P 500) index.
+
+# Background
+
+I am currently compiling a comprehensive historical list of **S&P 500** component changes, complete with corresponding dates. This endeavor stems from the realization that such detailed information isn't freely available online.
+
+Notably, the section titled "_Selected changes to the list of S&P 500 components_" on Wikipedia contains inaccuracies, and its historical versions under "View history" are similarly unreliable.
+
+[!NOTE]
+Sources: Only entries announced by either _PRNewswire_ or _S&P Global_ are recorded in this Excel file.
+
+[!IMPORTANT]
+Contributions Welcome: If you discover any missing entries announced by _PRNewswire_ or _S&P Global_, please feel free to inform me. 😊
+
+[!WARNING] 
+Incomplete Data: Some S&P 500 constituents may be missing if their announcements aren't found online.
+
+[!CAUTION]
+Usage Caution: Please use this Excel file with extreme care. It will be updated irregularly.
+
+# Excel File Structure
+
+The Excel file comprises three worksheets:
+
+1. **SPX Global (1)**: Records additions and deletions announced **before** July 1, 2020.
+
+2. **SPX Global (2)**: Records additions and deletions announced on or **after** July 1, 2020.
+
+3. **Changes**: Highlights special cases where stocks were included post-merger, but _S&P Global_ mentioned their successors instead.
+
+# Entry Details
+
+1. **Company Name**
+
+2. **Ticker**
+
+3. **Action**: Addition or Deletion
+
+4. **GICS Economic Sector**
+
+5. **GICS Sub-Industry**
+
+6. **GICS Sector**
+
+7. **Date**: The effective date of the action.
+
+8. **Type**:
+
+   - **Close**: Action performed **after** the market close on the recorded date.
+
+   - **Open**: Action performed **before** the market open on the recorded date.
+
+   - **TBA**: Date of action is To Be Announced; the recorded date is the announcement date.
+
+9. **Link**: Direct link to the official announcement.
+
+# Special Cases
+
+Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
