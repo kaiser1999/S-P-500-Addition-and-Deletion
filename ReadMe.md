@@ -6,6 +6,14 @@ I am currently compiling a comprehensive historical list of **S&P 500** componen
 
 Notably, the section titled "_Selected changes to the list of S&P 500 components_" on Wikipedia contains inaccuracies, and its historical versions under "View history" are similarly unreliable.
 
+Other sources for a comprehensive historical list:
+
+1. **S&P 500 Historical Components & Changes.csv** provided by [fja05680](https://github.com/fja05680/sp500)
+
+2. **The Price Response to S&P 500 Index Additions and Deletions: Evidence of Asymmetry and a New Explanation** provided by [Honghui Chen, Gregory Noronha, and Vijay Singal](https://afajof.org/supplements/)
+
+3. **S&P Releases List of 86 Companies in the S&P 500 Since 1957** provided by [PaperMoney]((https://www.globalpapermoney.com/s-p-releases-list-of-86-companies-in-the-s-p-500-since-1957-cms-1023))
+
 > [!NOTE]
 > Sources: Only entries announced by either _PRNewswire_ or _S&P Global_ are recorded in this Excel file.
 
@@ -18,7 +26,7 @@ Notably, the section titled "_Selected changes to the list of S&P 500 components
 > [!CAUTION]
 > Usage Caution: Please use this Excel file with extreme care. It will be updated irregularly.
 
-# Excel File Structure
+# S&P 500 Addition and Deletion.xlsx
 
 The Excel file comprises three worksheets:
 
@@ -28,7 +36,7 @@ The Excel file comprises three worksheets:
 
 3. **Changes**: Highlights special cases where stocks were included post-merger, but _S&P Global_ mentioned their successors instead.
 
-# Entry Details
+## Entry Details
 
 1. **Action**: Addition or Deletion
 
@@ -44,6 +52,6 @@ The Excel file comprises three worksheets:
 
 4. **Link**: Direct link to the official announcement.
 
-# Special Cases
+## Special Cases
 
 Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
