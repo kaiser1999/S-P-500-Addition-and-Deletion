@@ -36,22 +36,14 @@ The Excel file comprises three worksheets:
 
 3. **Changes**: Highlights special cases where stocks were included post-merger, but _S&P Global_ mentioned their successors instead.
 
-## Entry Details
+   - Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
 
-1. **Action**: Addition or Deletion
+**Type** Details:
 
-2. **Date**: The effective date of the action.
+- **Close**: Action performed **after** the market close on the _Effective Date_.
 
-3. **Type**:
+- **Open**: Action performed **before** the market open on the _Effective Date_.
 
-   - **Close**: Action performed **after** the market close on the recorded date.
+- **TBA**: Date of action is To Be Announced.
 
-   - **Open**: Action performed **before** the market open on the recorded date.
 
-   - **TBA**: Date of action is To Be Announced; the recorded date is the announcement date.
-
-4. **Link**: Direct link to the official announcement.
-
-## Special Cases
-
-Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
