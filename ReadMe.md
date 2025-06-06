@@ -28,8 +28,7 @@ Other sources for a comprehensive historical list:
 The Excel file comprises three worksheets:
 1. **SPX Global (1)**: Records additions and deletions announced **before** July 1, 2020.
 2. **SPX Global (2)**: Records additions and deletions announced on or **after** July 1, 2020.
-3. **Changes**: Highlights special cases where stocks were included post-merger, but _S&P Global_ mentioned their successors instead.
-   - Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
+3. **Changes**: Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
 
 **Type** Details:
 - **Close**: Action performed **after** the market close on the _Effective Date_.
