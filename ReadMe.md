@@ -7,11 +7,8 @@ I am currently compiling a comprehensive historical list of **S&P 500** componen
 Notably, the section titled "_Selected changes to the list of S&P 500 components_" on Wikipedia contains inaccuracies, and its historical versions under "View history" are similarly unreliable.
 
 Other sources for a comprehensive historical list:
-
 1. "_S&P 500 Historical Components & Changes.csv_" provided by [fja05680](https://github.com/fja05680/sp500)
-
 2. "_The Price Response to S&P 500 Index Additions and Deletions: Evidence of Asymmetry and a New Explanation_" provided by [Honghui Chen, Gregory Noronha, and Vijay Singal](https://afajof.org/supplements/)
-
 3. "_S&P Releases List of 86 Companies in the S&P 500 Since 1957_" provided by [PaperMoney](https://www.globalpapermoney.com/s-p-releases-list-of-86-companies-in-the-s-p-500-since-1957-cms-1023)
 
 > [!NOTE]
@@ -29,16 +26,12 @@ Other sources for a comprehensive historical list:
 # S&P 500 Addition and Deletion.xlsx
 
 The Excel file comprises three worksheets:
-
 1. **SPX Global (1)**: Records additions and deletions announced **before** July 1, 2020.
-
 2. **SPX Global (2)**: Records additions and deletions announced on or **after** July 1, 2020.
-
 3. **Changes**: Highlights special cases where stocks were included post-merger, but _S&P Global_ mentioned their successors instead.
    - Some stocks are included in the index following mergers, where _S&P Global_ references the successor company instead. These instances are documented in the **Changes** worksheet, with corresponding cells highlighted in red in the **SPX Global (1)** and **SPX Global (2)** worksheets.
 
 **Type** Details:
-
 - **Close**: Action performed **after** the market close on the _Effective Date_.
 - **Open**: Action performed **before** the market open on the _Effective Date_.
 - **TBA**: Date of action is To Be Announced.
